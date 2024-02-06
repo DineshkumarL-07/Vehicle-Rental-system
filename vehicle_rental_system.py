@@ -10,7 +10,7 @@ class VehicleRentalSystem:
                                    'PORT=3306;'
                                    'DATABASE=console;'
                                    'USER=root;'
-                                   'PASSWORD=dineshsql7;'
+                                   'PASSWORD=**********;'
                                    'TRUSTED_CONNECTION=Yes;')
 
         self.cursor = self.conn.cursor()
